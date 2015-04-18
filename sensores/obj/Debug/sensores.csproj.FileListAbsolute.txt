@@ -1,0 +1,12 @@
+c:\users\usuario\documents\visual studio 2010\Projects\sensores\sensores\Bin\Debug\ApplicationIcon.png
+c:\users\usuario\documents\visual studio 2010\Projects\sensores\sensores\Bin\Debug\Background.png
+c:\users\usuario\documents\visual studio 2010\Projects\sensores\sensores\Bin\Debug\sensores.dll
+c:\users\usuario\documents\visual studio 2010\Projects\sensores\sensores\Bin\Debug\sensores.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\sensores\sensores\Bin\Debug\AppManifest.xaml
+c:\users\usuario\documents\visual studio 2010\Projects\sensores\sensores\Bin\Debug\sensores.xap
+c:\users\usuario\documents\visual studio 2010\Projects\sensores\sensores\obj\Debug\App.g.i.cs
+c:\users\usuario\documents\visual studio 2010\Projects\sensores\sensores\obj\Debug\MainPage.g.i.cs
+c:\users\usuario\documents\visual studio 2010\Projects\sensores\sensores\obj\Debug\sensores.g.resources
+c:\users\usuario\documents\visual studio 2010\Projects\sensores\sensores\obj\Debug\sensores.dll
+c:\users\usuario\documents\visual studio 2010\Projects\sensores\sensores\obj\Debug\sensores.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\sensores\sensores\obj\Debug\XapCacheFile.xml
